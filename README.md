@@ -246,7 +246,7 @@ Aditionally, if you choose to deploy Jekyll using a local ruby installation, you
 
 Beautiful Jekyll is actively used by thousands of people with wildly varying degrees of competency, so it's impossible to answer all the questions that may arise. Below are answers to a few very common questions. Most questions that I get asked are not directly related to this theme, and instead are more general questions about Jekyll or web development. Many such questions can be answered by reading the [Jekyll documentation](http://jekyllrb.com/) or simply by Googling.
 
-#### How do I change the number of posts per page OR the colour of the navigation bar OR the image in the navigation bar OR ...?
+#### How do I change the number of posts per page OR the colour of the navigion bar OR the image in the navigation bar OR ...?
 
 Beautiful Jekyll is built to be very customizable, and as such, many questions about "how do I change ..." can be answered by looking at the `_config.yml` file. The configuration file has many adjustable parameters to customize your site.
 
