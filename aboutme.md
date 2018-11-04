@@ -21,7 +21,7 @@ Android Development, Hybrid Mobile Development (Ionic, Sencha Touch, Angular Mob
 ## Education
 
 ### Undergraduate Coursework
-
+Data Structures, Algorithm Analysis & Design, Computer Networks, Artificial Intelligence, Computer Architecture, Object Oriented Software Engineering, OOPS using C++, Network Security, Software Testing, Mobile Computing, Linux, Java Programming & Website Design, Database Management Systems, Data Warehousing & Data Mining
 
 ### Graduate Coursework
 Artificial Intelligence, Machine Learning, Information Retrieval, Natural Langugae Processing, Deep Learning, Distributed Systems, Analysis of Algorithms, Computer Architecture, Software Engineering
